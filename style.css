@@ -1,0 +1,125 @@
+* { margin:0px;}
+
+.header{ width:1300px;
+         height:60px;
+		 background-color:#000; }
+
+.header P { width:200px;
+            height:50px;
+			color:#FFF;
+			background-color:#000;
+			font-size:50PX;
+			margin-left:50px;
+			font-family:arial "Arial Black", Gadget, sans-serif; 
+			float:left; }
+			
+.header a {  margin-left:70px;
+            margin-top:15px;
+			float:left;
+			font-size:20px;
+			color:#FFF;
+			text-decoration:none;} 
+						
+.header a:hover { color:#999;}			
+			
+.header img { width:30px;
+              height:30px;
+			  margin-left:50px;
+			  margin-top:15px;}	
+			  
+			  
+.img { width:1297px;
+         height:675px;
+		 }
+		 			  		
+.img img { width:1297px;
+            height:675px;}
+			
+.video { width:1298px;}			
+			
+.video video { width:400px;
+               margin-left:20px;
+               margin-top:10px;
+			   height:200px;}
+ 
+ .video video:hover { width:420px;
+                      height:220px;}			   			
+			
+.footer1 { width:1300px;
+          height:450px;
+		 
+		   }
+		  
+.footer1 table { font-size:20px; 
+                 width:800px;
+				 margin-left:30px;
+				 margin-top:20px;
+				 font-family:"Arial Black", Gadget, sans-serif;
+				 height:320px;
+				 color:#999;
+				 text-decoration:none;}		  
+
+.footer1 table td { color:#CCC;
+                    font-family:Georgia, "Times New Roman", Times, serif;
+					width:70px;}
+					
+.footer1 table td a { text-decoration:none;
+                      color:#CCC;}	
+
+				
+.footer1 p { font-size:24px;
+            margin-left:10px; 
+			text-decoration:none;
+			margin-top:20px;} 
+			
+.footer1  p a { text-decoration:none;
+               color:#CCC; 
+			   margin-left:30px;}			
+
+.footer1 h2 { font-weight:bold;
+             margin-left:80px;
+			 font-family:Verdana, Geneva, sans-serif;
+			 margin-top:10px;}
+			 
+			 
+			 
+.footer1 hr { width:1200px;}
+
+.footer { width:430px;
+          
+		  float:left;
+		  margin-left:860px;
+		  margin-top:-320px;
+		  font-size:25px;
+		  height:300px;}
+		  
+.footer img	{ width:30px;
+              height:30px;
+			  border-radius:110px;
+			  filter:grayscale(100%);
+			  margin-left:20px;
+			  margin-top:10px;
+			 }
+			  
+.footer img:hover	{ width:30px;
+                      height:30px;
+			          border-radius:110px;
+					  margin-left:20px;
+			          margin-top:10px;
+					  filter:grayscale(0%);
+					  }			  
+
+.footer a { text-decoration:none;}
+			  
+.footer h4 { margin-left:20px;
+             margin-top:20px;}			  	  			 
+		  			
+.footer2 { width:1310px;
+          height:50px;
+		  background-color:#000;}
+		  
+		  
+.footer2 p { font-size:25px;
+             text-align:center;
+			 color:#999;
+			 padding-top:10px;}		  				
